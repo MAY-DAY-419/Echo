@@ -1,0 +1,65 @@
+MAYANK DANTRE
+Leadership-Driven — SSB-Disciplined
+♂¶ap-¶arker-altPune, India — +91 93220 87357 —/envel⌢pemayankdantre16@gmail.com —/linkedinLinkedIn
+ὋCPROFESSIONAL SUMMARY
+B.Tech IT student with strong foundation in Full-Stack Development, AI, and NLP. Built several
+technical projects including anonymous messaging platforms, gesture recognition systems, smart home
+energy management platform, and student collaboration tools. Experienced in working with modern
+tech stacks, leading small development teams, and event management. Passionate about building
+practical solutions and contributing to tech communities.
+ὋCEXPERIENCE TECHNICAL CONTRIBUTIONS
+GeeksforGeeks – Tech Team2024–Present
+•Led complete development of GfG college chapter website from concept to deployment, including
+designing user interface, implementing backend architecture, creating responsive layouts, and man-
+aging database systems
+•Coordinated technical workshops and coding events for college community
+GirlScript – Marketing Lead2024–Present
+•Managed marketing and community engagement initiatives
+•Organized technical workshops and outreach campaigns
+Guru Deva Academy – Technical Mentor2023–Present
+•Developed Leadership and Team work qualities under this training.
+/graduati⌢n-capEDUCATION
+B.Tech in Information Technology – MITAOE2024–Present
+First Year CGPA: 8.8/10
+Higher Secondary (HSC) – Pune2024
+Secondary School (SSC) – Pune2022
+/brainSKILLS
+Technical Skills:AI·NLP·Python·C/C++·Java·SQL·HTML/CSS·JavaScript·Git
+Soft Skills:Leadership·Public Speaking·Communication (Hindi, English, Marathi, Japanese
+N5)·Teamwork·Time Management·Problem-Solving·Creativity·Event Management
+
+/cer◎ifica◎eCERTIFICATIONS
+•Python Essentials – Cisco
+•SQL Database – GL Academy
+•Networking Essentials – Cisco
+•Career Readiness – Anudip Foundation
+•MS-CIT – Maharashtra Government
+•IBM Design Thinking – IBM SkillsBuild
+•Google AI Essentials – Google
+•Cisco AICTE Virtual Internship – AICTE & Cisco
+/codeFLAGSHIP PROJECTS
+1. EchoWatt – Smart Home Energy Management Platform
+Intelligent energy calculator that helps users understand and optimize their household electricity con-
+sumption. Users input their appliances and usage patterns to get monthly bill calculations, cost analysis,
+and recommendations to reduce energy spending through smart usage optimization.
+2. EchoVerse – Anonymous Messaging Platform
+Privacy-focused messaging application where users can communicate anonymously without revealing
+their identity. The platform enables secure, confidential conversations with features like encrypted
+storage, message expiration, and blocking capabilities for user safety.
+3. Gesture-to-Text Live Platform
+Real-time gesture recognition system that converts hand gestures into text in live video. This platform
+uses computer vision to recognize gestures and translate them into readable text, providing an acces-
+sible communication tool for users who need alternative input methods.
+4. Collabity – Student Collaboration Platform
+College-focused collaboration platform designed to connect students for group projects, mentorship,
+and community engagement. Students can discover collaborators, join events, find internship opportu-
+nities, and build their professional network within the college ecosystem.
+5. Sentiment Analysis Application
+NLP-powered application that analyzes text and determines the sentiment or emotional tone behind
+written content. The application processes user input and provides visual insights into whether the
+text expresses positive, negative, or neutral sentiment.
+6. College Parking Optimization Model
+Predictive model that analyzes historical occupancy patterns to forecast parking space availability. The
+system helps users find available parking spaces by predicting occupancy trends and providing recom-
+mendations during peak and off-peak hours.
+/envel⌢pemayankdantre16@gmail.com — +91 93220 87357 —♂¶ap-¶arker-altPune, India
